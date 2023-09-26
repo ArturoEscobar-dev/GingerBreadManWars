@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/Level1Test.umap",
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/Level2.umap",
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/Nivel1.umap",
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/Nivel2.umap",
+				"D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Taller de Videojuegos/github/GingerBreadManWars/GingerBreadManWars1/Content/Nivel3.umap"
 			]
 		}
 	]
